@@ -1,0 +1,17 @@
+{
+	strings:
+	{
+	"DIFFICULTY_BAR_0": "ez pz",
+	"DIFFICULTY_BAR_1": "cant die",
+	"DIFFICULTY_BAR_2": "ok ok",
+	"DIFFICULTY_BAR_3": "spicy",
+	"DIFFICULTY_BAR_4": "mayonaise",
+	"DIFFICULTY_BAR_5": "iphone",
+	"DIFFICULTY_BAR_6": "hopoo",
+	"DIFFICULTY_BAR_7": "i look u",
+	"DIFFICULTY_BAR_8": "omw btw",
+	"DIFFICULTY_BAR_9": "xD ",
+	"STAGE_COUNT_FORMAT" : "<style=cSub>yea</style> {0}",
+	"AMBIENT_LEVEL_DISPLAY_FORMAT" : "<style=cSub>lvl:</style> {0}",
+	}
+}

@@ -1,0 +1,61 @@
+﻿{
+	"strings": {
+		"CUTSCENE_INTRO_FLAVOR_1": "some rocket idk ",
+		"CUTSCENE_INTRO_FLAVOR_2": "the place from the first game here",
+		"CUTSCENE_INTRO_SUBTITLE_1": "captain idk how to talk so yea",
+		"CUTSCENE_INTRO_SUBTITLE_2": "not on the star map thingy lol ",
+		"CUTSCENE_INTRO_SUBTITLE_3": "k",
+		"CUTSCENE_INTRO_SUBTITLE_4": "What the fuck did you just fucking say about me, you little bitch? I'll have you know I graduated top of my class in the Navy Seals, and I've been involved in numerous secret raids on Al-Quaeda, and I have over 300 confirmed kills. I am trained in gorilla warfare and I'm the top sniper in the entire US armed forces. You are nothing to me but just another target. I will wipe you the fuck out with precision the likes of which has never been seen before on this Earth, mark my fucking words. You think you can get away with saying that shit to me over the Internet? Think again, fucker. As we speak I am contacting my secret network of spies across the USA and your IP is being traced right now so you better prepare for the storm, maggot. The storm that wipes out the pathetic little thing you call your life. You're fucking dead, kid. I can be anywhere, anytime, and I can kill you in over seven hundred ways, and that's just with my bare hands. Not only am I extensively trained in unarmed combat, but I have access to the entire arsenal of the United States Marine Corps and I will use it to its full extent to wipe your miserable ass off the face of the continent, you little shit. If only you could have known what unholy retribution your little "clever" comment was about to bring down upon you, maybe you would have held your fucking tongue. But you couldn't, you didn't, and now you're paying the price, you goddamn idiot. I will shit fury all over you and you will drown in it. You're fucking dead, kiddo.",
+		"CUTSCENE_INTRO_SUBTITLE_5": "k",
+		"CUTSCENE_INTRO_SUBTITLE_6": "ok im so sorry",
+		"CUTSCENE_INTRO_SUBTITLE_7": "sir you are kicking me off the ship",
+		"CUTSCENE_INTRO_SUBTITLE_8": "idk if im ready oh sup camera",
+		"CUTSCENE_INTRO_SUBTITLE_9": "meta moment zz wawaawaawaw",
+		"CUTSCENE_INTRO_SUBTITLE_10": "AAAAAAAAAAAAAAAAAAAAAAAAA",
+
+		"GENERIC_OUTRO_FLAVOR": "..and so it left, hopeful for meaning.",
+		"GENERIC_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "..and so it vanished, so close to escape.",
+
+		"COMMANDO_OUTRO_FLAVOR": "..and so he left, with new orders and new questions.",
+		"COMMANDO_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "..and so he vanished, another number among the missing.",
+
+		"HUNTRESS_OUTRO_FLAVOR": "..and so she left, yearning for her next great hunt.",
+		"HUNTRESS_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "..and so she vanished, never to collect again.",
+
+		"ENGI_OUTRO_FLAVOR": "..and so he left, with newfound inspirations.",
+		"ENGI_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "..and so he vanished, unable to explain what his eyes had seen.",
+
+		"TREEBOT_OUTRO_FLAVOR": "..and so it left, ready to grow into something more.",
+		"TREEBOT_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "..and so it vanished, still remaining as one.",
+
+		"CROCO_OUTRO_FLAVOR": "..and so it left, with delusions of freedom.",
+		"CROCO_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "..and so it vanished, taken for the final time.",
+
+		"LOADER_OUTRO_FLAVOR": "..and so she left, heart still racing.",
+		"LOADER_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "..and so she vanished, her momentum halted forever.",
+
+		"MERC_OUTRO_FLAVOR": "..and so he left, with dreams of good food and a peaceful night.",
+		"MERC_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "..and so he vanished, reduced to fable.",
+
+		"CAPTAIN_OUTRO_FLAVOR": "..and so he left, with a new tale to tell.",
+		"CAPTAIN_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "..and so he vanished, free from a lifetime of paperwork.",
+
+		"TOOLBOT_OUTRO_FLAVOR": "..and so it left, ready to recharge.",
+		"TOOLBOT_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "..and so it vanished, inactive forever.",
+
+		"MAGE_OUTRO_FLAVOR": "..and so she left, in love with a new passion: to explore.",
+		"MAGE_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "..and so she vanished, her place forever vacant.",
+
+		"BANDIT2_OUTRO_FLAVOR": "..and so he left, grateful for his luck.",
+		"BANDIT2_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR":  "..and so he vanished, full of regret.",
+
+		"HERETIC_OUTRO_FLAVOR": "..and so they left, bitterly avenged and deeply lost.",
+		"HERETIC_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "..and so they vanished, two stories ending as one.",
+
+		"RAILGUNNER_OUTRO_FLAVOR": "..and so she left, ready to take her shot.",
+		"RAILGUNNER_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "..and so she vanished, out of sight.",
+
+		"VOIDSURVIVOR_OUTRO_FLAVOR": "『..and s?o it c??omes】... 「fo?r al?l of us.』",
+		"VOIDSURVIVOR_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR":  "『..a?nd so it v?ani??shed』, 「a wh?isper in the d??arkness』",
+	}
+}

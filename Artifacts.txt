@@ -1,0 +1,69 @@
+{
+	"strings":
+	{
+		"ARTIFACT_GLASS_NAME": "GLASS CANON MODE.",
+		"ARTIFACT_GLASS_DESCRIPTION" : "500% DAMANGE BUT 10% healt..",
+
+		"ARTIFACT_BOMB_NAME" : "sprite artifact",
+		"ARTIFACT_BOMB_DESCRIPTION" : "kill enemy = bomb",
+
+		"ARTIFACT_ENIGMA_NAME" : "fake sigma",
+		"ARTIFACT_ENIGMA_DESCRIPTION" : "DO NOT USE EQUIPMENT",
+
+		"ARTIFACT_SACRIFICE_NAME" : "INFINITE ITEMS",
+		"ARTIFACT_SACRIFICE_DESCRIPTION" : "bye chests, hi monster",
+
+		"ARTIFACT_SPIRIT_NAME" : "fight or flight",
+		"ARTIFACT_SPIRIT_DESCRIPTION" : "flight when u low health",
+
+		"ARTIFACT_RANDOMSURVIVORONRESPAWN_NAME": "i didn't pick this guy",
+		"ARTIFACT_RANDOMSURVIVORONRESPAWN_DESCRIPTION": "wait hold up i didn't pick this guy what",
+		
+		"ARTIFACT_WEAKASSKNEES_NAME": "knees broken",
+		"ARTIFACT_WEAKASSKNEES_DESCRIPTION": "ur knees are broken,",
+		
+		"ARTIFACT_WISPONDEATH_NAME": "i hate wisps",
+		"ARTIFACT_WISPONDEATH_DESCRIPTION": "too many wisps",
+		
+		"ARTIFACT_ELITEONLY_NAME": "for HONOR",
+		"ARTIFACT_ELITEONLY_DESCRIPTION": "why are there so many elites?",
+		
+		"ARTIFACT_SINGLEMONSTERTYPE_NAME": "one monster mode",
+		"ARTIFACT_SINGLEMONSTERTYPE_DESCRIPTION": "there sure are a lot of betles here",
+		
+		"ARTIFACT_MIXENEMY_NAME": "how u spawn here?",
+		"ARTIFACT_MIXENEMY_DESCRIPTION": "ur not supposed to be here",
+		
+		"ARTIFACT_SHADOWCLONE_NAME": "shadow clone",
+		"ARTIFACT_SHADOWCLONE_DESCRIPTION": "naruto",
+		
+		"ARTIFACT_TEAMDEATH_NAME": "DO NOT DIE!!!",
+		"ARTIFACT_TEAMDEATH_DESCRIPTION": "if one die u all gone",
+		"ARTIFACT_TEAMDEATH_DEATHMESSAGE": "<style=cDeath><b>{0} IS STUPID FUCKKKKKK</b></style>",
+		"ARTIFACT_TEAMDEATH_DEATHMESSAGE_2P": "<style=cDeath><b>not ur fault bro</b></style>",
+		
+		"ARTIFACT_SWARMS_NAME": "so many monster",
+		"ARTIFACT_SWARMS_DESCRIPTION": "double monster less hp for them not u",
+		
+		"ARTIFACT_COMMAND_NAME": "pick ur item",
+		"ARTIFACT_COMMAND_DESCRIPTION": "what u want",
+		"ARTIFACT_COMMAND_CUBE_INTERACTION_PROMPT": "pick ur item from here",
+		"ARTIFACT_COMMAND_INTERACTION_HEADER" : "what u want",
+		"ARTIFACT_COMMAND_CUBE_WHITE_NAME" : "ez crit glass",
+		"ARTIFACT_COMMAND_CUBE_GREEN_NAME" : "PICK HOPOO FEATHER",
+		"ARTIFACT_COMMAND_CUBE_RED_NAME" : "ICBM BIG PLAYS",
+		"ARTIFACT_COMMAND_CUBE_YELLOW_NAME" : "surely get a beetle guard",
+		"ARTIFACT_COMMAND_CUBE_ORANGE_NAME" : "EXECUTIVE CARD",
+		"ARTIFACT_COMMAND_CUBE_BLUE_NAME" : "loonar item",
+		"ARTIFACT_COMMAND_CUBE_UNKNOWN_NAME" : "this... this not right...",
+
+		"ARTIFACT_MONSTERTEAMGAINSITEMS_NAME": "monster get item",
+		"ARTIFACT_MONSTERTEAMGAINSITEMS_DESCRIPTION": "pray monster dont get crowbar",
+
+		"ARTIFACT_FRIENDLYFIRE_NAME": "friendly fire",
+		"ARTIFACT_FRIENDLYFIRE_DESCRIPTION": "RDM RDM RDM RDM RDM",
+
+		"ARTIFACT_NONE_NAME" : "no more artifact",
+		"ARTIFACT_NONE_DESCRIPTION" : "NOOOOO",
+	}
+}
